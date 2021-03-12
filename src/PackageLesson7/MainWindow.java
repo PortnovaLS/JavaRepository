@@ -8,8 +8,8 @@ import java.beans.PropertyChangeListener;
 
 public class MainWindow extends JFrame {
 
-    private static final int WIN_WIDTH = 450;
-    private static final int WIN_HEIGHT = 500;
+    private static final int WIN_WIDTH = 500;
+    private static final int WIN_HEIGHT = 550;
     private static final int WIN_POS_X = 450;
     private static final int WIN_POS_Y = 150;
 
